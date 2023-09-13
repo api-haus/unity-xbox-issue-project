@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 15
+  m_Deferred:
+    m_Mode: 1
+    m_Shader: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
+  m_DeferredReflections:
+    m_Mode: 1
+    m_Shader: {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 1
+    m_Shader: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+  m_DepthNormals:
+    m_Mode: 1
+    m_Shader: {fileID: 62, guid: 0000000000000000f000000000000000, type: 0}
+  m_MotionVectors:
+    m_Mode: 1
+    m_Shader: {fileID: 75, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightHalo:
+    m_Mode: 1
+    m_Shader: {fileID: 105, guid: 0000000000000000f000000000000000, type: 0}
+  m_LensFlare:
+    m_Mode: 1
+    m_Shader: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+  m_VideoShadersIncludeMode: 2
+  m_AlwaysIncludedShaders:
+  - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 7977e6a8bc9d6654e921c8dbf56da8de, type: 3}
+  - {fileID: 4800000, guid: 9b0b7dacc25a40840b2dcf4ad6bd46f6, type: 3}
+  - {fileID: 4800000, guid: 80a37149f0e2b234a8607bf14ec2d337, type: 3}
+  - {fileID: 4800000, guid: d131fcfc5310813439676fdf1137f1b9, type: 3}
+  - {fileID: 4800000, guid: fa0010f3d185ef442a776e1644867a4b, type: 3}
+  - {fileID: 4800000, guid: 8cbfaa8fa08e58242a02bdee5e47adcd, type: 3}
+  - {fileID: 4800000, guid: aa6e49608d72c5d48a605006141d950d, type: 3}
+  - {fileID: 4800000, guid: 39cb725a37fabd8408b20dfed3dec9a6, type: 3}
+  - {fileID: 4800000, guid: be495611b7650204187fd3615ef8aae6, type: 3}
+  - {fileID: 4800000, guid: 6204430adfd229444bbed720b63c6992, type: 3}
+  - {fileID: 4800000, guid: 88d530267719b8942beea20b7c2f664d, type: 3}
+  - {fileID: 4800000, guid: 1c6eec8ff7001d948b2e8c4d7dbf2fe7, type: 3}
+  - {fileID: 4800000, guid: 41dd3fe61293f804facf2ad7170143a3, type: 3}
+  - {fileID: 4800000, guid: 13254b96e3337c544af78cff527e1086, type: 3}
+  - {fileID: 4800000, guid: 1cfda9386e9ce8d439881254f344d919, type: 3}
+  - {fileID: 4800000, guid: c941e179a0aec394dbfc07078ece673e, type: 3}
+  - {fileID: 4800000, guid: 93d3e9f3200a5294c80751bbcaf56b43, type: 3}
+  - {fileID: 4800000, guid: 6470960fd7d32c74ba984abf484d5fe2, type: 3}
+  - {fileID: 4800000, guid: 4d888792187337a499432d6e0030bf09, type: 3}
+  - {fileID: 4800000, guid: 9acc85bc2060ee04ebd1e892309a6443, type: 3}
+  - {fileID: 4800000, guid: e810d88d8f46db845bf2e613d7666bac, type: 3}
+  - {fileID: 4800000, guid: 44a1a33c03c1a104c926ca63e65de104, type: 3}
+  - {fileID: 4800000, guid: e1ce0845dd0324544a82ae8a3e7c5865, type: 3}
+  - {fileID: 4800000, guid: 7d060d8e4907d214aa2dd5c57b363a32, type: 3}
+  - {fileID: 4800000, guid: 4d04877ece8f9d7409bb5c8203961378, type: 3}
+  - {fileID: 4800000, guid: aca40b612e8e6a84982fb4c2757a76ee, type: 3}
+  - {fileID: 4800000, guid: 4243833a967a57446a4d8094e03e1b7f, type: 3}
+  - {fileID: 4800000, guid: d90d5d433bb318e4db84c6eb1c6d348b, type: 3}
+  - {fileID: 4800000, guid: 55c6415a8ba23fc4fac790a3526f06d5, type: 3}
+  - {fileID: 4800000, guid: db2ad2983108de04296d7330610b89e1, type: 3}
+  - {fileID: 4800000, guid: 2785ea283cd5d1e45a73813ebf077326, type: 3}
+  - {fileID: 4800000, guid: 01b44c55d5493a345a306cc7481934c8, type: 3}
+  - {fileID: 4800000, guid: 83dc64d77b5c72d4b964d8c6ba3e286a, type: 3}
+  - {fileID: 4800000, guid: 1fa9e3d0036b0d243a50ec4622c074da, type: 3}
+  - {fileID: 4800000, guid: 2beb9b0ed673dd84a8a35575027e7497, type: 3}
+  - {fileID: 4800000, guid: 7fa15918a645c8b4fb5acf65a7d7b9f7, type: 3}
+  - {fileID: 4800000, guid: 483e3c55427e5cb418283afc3cfc1339, type: 3}
+  - {fileID: 4800000, guid: 4571899134c472845b510f738b554ff1, type: 3}
+  - {fileID: 4800000, guid: ef534e98c4056dc4798d55812a4bf5b1, type: 3}
+  - {fileID: 4800000, guid: 9cfe29830a14f6f46ab3ef3109a1dffc, type: 3}
+  - {fileID: 4800000, guid: 7d5015130582008499b08a6f1caf5ad7, type: 3}
+  - {fileID: 4800000, guid: e9035dabe750e054d99e239debbb66ab, type: 3}
+  - {fileID: 4800000, guid: bba7bea2050a6bc478168db5249c57b4, type: 3}
+  - {fileID: 4800000, guid: c10ae9258d6536a4284971647feb6e6f, type: 3}
+  - {fileID: 4800000, guid: 16e3db08e97e213409ed14d644b572af, type: 3}
+  - {fileID: 4800000, guid: 3e4782e35365af446ac04e7562e4cef2, type: 3}
+  - {fileID: 4800000, guid: a584783ed1f82a942b615dcf1fea0d13, type: 3}
+  - {fileID: 4800000, guid: 232ee764a489ef343845655271aef978, type: 3}
+  - {fileID: 4800000, guid: b1fceb89ff17f6547b7951d6b0046fe4, type: 3}
+  - {fileID: 4800000, guid: 8e058adc1fbd69c48b045d32e6f84077, type: 3}
+  - {fileID: 4800000, guid: 6700ecbada572f74683ec4a8981ad595, type: 3}
+  - {fileID: 4800000, guid: 8ba39d6da64af4a40b4fb066546f4127, type: 3}
+  - {fileID: 4800000, guid: 3eb1110f04736064c836a4d3fa3d24a9, type: 3}
+  - {fileID: 4800000, guid: 123edd1d39f52784788938a8f011446d, type: 3}
+  - {fileID: 4800000, guid: f371acd55cc0d1b41a1615c0a935bdc1, type: 3}
+  - {fileID: 4800000, guid: 95d86eb3486643a42af9a75fcac46f24, type: 3}
+  - {fileID: 4800000, guid: 85c8fe4e56e315b488d7241764478aa4, type: 3}
+  - {fileID: 4800000, guid: 993a401173317114b8072d4bff4a1632, type: 3}
+  - {fileID: 4800000, guid: 13d9d31f3e8155f43ad2aba8d989f979, type: 3}
+  - {fileID: 4800000, guid: 930d7c09e7da65a4c9ee010a7aa5e332, type: 3}
+  - {fileID: 4800000, guid: 6a27e6f8a864c0d41b8728369580f345, type: 3}
+  - {fileID: 4800000, guid: a7106d197588d364b93291aedbdc232a, type: 3}
+  - {fileID: 4800000, guid: ae765b50ef5ac9546a9a35e3a21c53e7, type: 3}
+  - {fileID: 4800000, guid: c89f0043ee8813b458de488ac30cf809, type: 3}
+  - {fileID: 4800000, guid: 3da889d987e8654419a79cc6106fc1b1, type: 3}
+  - {fileID: 4800000, guid: c29265ec562a60b4fb62716b01a7e08d, type: 3}
+  - {fileID: 4800000, guid: 33b39b6fd38aec549b256ef2e349b812, type: 3}
+  - {fileID: 4800000, guid: 7582283dafbcf90479fff48560dca20d, type: 3}
+  - {fileID: 4800000, guid: 9ca8f0967d0ce644c9c46a9bb01a76b3, type: 3}
+  - {fileID: 4800000, guid: 12aed64eca706e44fbc853f4199afa2b, type: 3}
+  - {fileID: 4800000, guid: f74f9c85fdb49064bb755a61a85fff53, type: 3}
+  - {fileID: 4800000, guid: f7433deb567f9cb4aa7eeb862cdbb265, type: 3}
+  - {fileID: 4800000, guid: bb683ac532066514793d07f3770c6185, type: 3}
+  - {fileID: 4800000, guid: 1d04982e05b997842a420cbcb06a1fd2, type: 3}
+  - {fileID: 4800000, guid: 029967f1bb9486d418e4d2b4fd62aad7, type: 3}
+  - {fileID: 4800000, guid: 316a9ec77db3ecd409cf2359263ee952, type: 3}
+  - {fileID: 4800000, guid: c89fa2f0c3db8ab469065a56489a2b46, type: 3}
+  - {fileID: 4800000, guid: 9cec5cab5264d8b41988ce45aed61b32, type: 3}
+  - {fileID: 4800000, guid: fc83acc015bd51f46a900eb74b05f5dc, type: 3}
+  - {fileID: 4800000, guid: eea093c08120a77498eecd96b05a96b8, type: 3}
+  - {fileID: 4800000, guid: fd36ff28a3fa8e142b1420199e0529f3, type: 3}
+  - {fileID: 4800000, guid: 3927da10406d0d147a2049ae7c4fbede, type: 3}
+  - {fileID: 4800000, guid: 1e5171ac7b63ed441960da6cf37146a2, type: 3}
+  - {fileID: 4800000, guid: 387db0d42ba361645a8443beadc8bdd6, type: 3}
+  - {fileID: 4800000, guid: 4bcfd77507de42d40ad7ce2543a44cd8, type: 3}
+  - {fileID: 4800000, guid: ab583b89d93bd5846883c513711e769a, type: 3}
+  - {fileID: 4800000, guid: 74b163185090aaf41b8df93640d24c50, type: 3}
+  - {fileID: 4800000, guid: 3792ff3532d47c446812b94ac79249d4, type: 3}
+  m_PreloadedShaders: []
+  m_PreloadShadersBatchTimeLimit: -1
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_CustomRenderPipeline: {fileID: 0}
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings: []
+  m_LightmapStripping: 0
+  m_FogStripping: 0
+  m_InstancingStripping: 2
+  m_BrgStripping: 2
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 1
+  m_LightmapKeepDynamicPlain: 1
+  m_LightmapKeepDynamicDirCombined: 1
+  m_LightmapKeepShadowMask: 1
+  m_LightmapKeepSubtractive: 1
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 1
+  m_FogKeepExp2: 1
+  m_AlbedoSwatchInfos: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0
+  m_DefaultRenderingLayerMask: 1
+  m_LogWhenShaderIsCompiled: 0
+  m_SRPDefaultSettings: {}
+  m_LightProbeOutsideHullStrategy: 0
+  m_CameraRelativeLightCulling: 0
+  m_CameraRelativeShadowCulling: 0
